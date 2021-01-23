@@ -1,8 +1,8 @@
-# AzureServiceBusSample
+# Azure ServiceBus Sample
 
 This project demonstrates how to Send to or Receive from AzureServiceBus with .Net Core. 
 
-The solution has 3 project present Client-Sider (Publisher), Server-Side (Consumer) and Shared Library for DTOs.
+The solution has 3 project that present Client-Side (Publisher), Server-Side (Consumer) and Shared Library for DTOs.
 
 
 # ClientApi (Publisher)
