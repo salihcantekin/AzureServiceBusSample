@@ -21,4 +21,4 @@ You may easily consume either queue or topic, or both at the same time.
 I've just keep my DTOs on this library so I can easily access from both sides.
 
 
-![alt text](https://github.com/salihcantekin/AzureServiceBusSample/blob/master/AzureServiceBus_ServerSide.png?raw=true)
+![alt text](https://github.com/salihcantekin/AzureServiceBusSample/blob/master/ScreenShots/AzureServiceBus_OrderCreate_Postman.png?raw=true)
